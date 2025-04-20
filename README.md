@@ -59,3 +59,6 @@ Watch the Simulation:
 Objects will be created on the conveyor.
 
 When an object reaches the vision sensor, MATLAB processes the image, classifies it, and instructs the robotic arm to sort it into the correct bin.
+
+# Demo
+video.mp4 is given in the repository.
