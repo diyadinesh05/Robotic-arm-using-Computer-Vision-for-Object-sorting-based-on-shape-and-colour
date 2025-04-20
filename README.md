@@ -44,7 +44,7 @@ Basic understanding of kinematics and image processing
 Setup Instructions
 Launch CoppeliaSim:
 
-Open scene.ttt from the CoppeliaSim/ directory.
+Open project.ttt from the CoppeliaSim/ directory.
 
 Start the simulation.
 
